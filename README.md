@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Hiten Punia 👋
 
-<!--
-**hiten0010/hiten0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate tech enthusiast and an undergraduate student currently pursuing my B.Tech in Artificial Intelligence and Machine Learning (AIML) at GITAM, Jhajjar. I love solving logical problems and building my coding fundamentals step-by-step.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Upto:
+* 🔭 Currently grinding **Data Structures and Algorithms (DSA)**.
+* 💻 My primary programming language is **C++**.
+* 🧠 Always trying to improve my problem-solving skills and logic building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Outside of Coding:
+* 🚗 I am a huge automobile enthusiast (always tracking the Indian car market and features!).
+* 🎌 I enjoy watching anime, especially series like *Jujutsu Kaisen*, *Attack on Titan*, and *Demon Slayer*.
+
+### 📫 Let's Connect!
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/hiten-punia-a98797392/)
